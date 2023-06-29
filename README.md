@@ -10,3 +10,7 @@
 
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/css.png" alt="css">
+
+<h2>Punto 4: Text</h2>
+<img src="./public/images/text-blue-red.png" alt="css">
+
