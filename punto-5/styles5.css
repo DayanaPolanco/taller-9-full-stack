@@ -1,0 +1,24 @@
+.paragraph {
+    text-align: left;
+}
+
+#green-color {
+    color: green;
+    text-decoration: underline;
+}
+
+.red-color {
+    color: red;
+}
+
+#blue-color {
+    color: blue;
+}
+
+#big-letters {
+    font-size: 30px;
+}
+
+#decoration-text{
+    text-decoration-line: overline underline;
+}
