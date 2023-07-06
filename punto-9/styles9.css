@@ -1,0 +1,34 @@
+th {
+    color: red;
+    font-weight: lighter;
+    letter-spacing: -1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.letter-bold {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.letter-lighter {
+    font-size: 13px;
+}
+
+tr td {
+    text-align: left;
+}
+
+table {
+    background-color: yellow;
+    border-bottom: 1px dashed red;
+    border-top: 1px dotted;
+    border-right: 1px dotted;
+    border-left: 1px dotted;
+    border-collapse: collapse;
+}
+
+.date-1 {
+    border: 1px dotted;
+}

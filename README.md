@@ -22,3 +22,6 @@
 
 <h2>Punto 7-8: Navigation</h2>
 <img src="./public/images/navigation.png" alt="css">
+
+<h2>Punto 9: Table </h2>
+<img src="./public/images/table.png" alt="css">
