@@ -19,3 +19,6 @@
 
 <h2>Punto 6: Links</h2>
 <img src="./public/images/links.png" alt="css">
+
+<h2>Punto 7-8: Navigation</h2>
+<img src="./public/images/navigation.png" alt="css">

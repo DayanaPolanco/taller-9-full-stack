@@ -1,0 +1,29 @@
+
+nav ul {
+    list-style: none;
+    display: inline;
+    text-align: left;
+
+}
+
+nav ul a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    background-color: blue;
+    padding: 8px;
+}
+
+.header__navigation {
+    background-color: plum;
+    height: 50px;
+}
+
+nav li {
+    float: left;
+    line-height: 50px;
+    padding-left: 40px;
+}
