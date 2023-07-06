@@ -16,3 +16,6 @@
 
 <h2>Punto 5: Paragraph</h2>
 <img src="./public/images/paragraph.png" alt="css">
+
+<h2>Punto 6: Links</h2>
+<img src="./public/images/links.png" alt="css">

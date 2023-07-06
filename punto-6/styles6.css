@@ -1,0 +1,13 @@
+#text a {
+    font-size: 25px;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.text-2 a{
+    color: yellow;
+}
+
+.text-3 a{
+    color: purple;
+}
