@@ -5,7 +5,9 @@
 <h2>Punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/tnIl9xOkTwLY6M2iAFbaSC/Ingrid-Dayana-Polanco-Sierra---Figma-Excercise?type=design&node-id=0%3A1&t=xoP8uK91767GTJvD-1"> Link de Figma</a>
 
-<a href=""> Link de Página</a>
+<h2>Link de Página</h2>
+<a href="https://dayanapolanco.github.io/taller-9-full-stack/">Link de Página</a>
+
 
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png.png" alt="html">
